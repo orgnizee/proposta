@@ -203,7 +203,7 @@ export default function Home() {
               <p>
                 <span className="font-bold">2. Desenvolvimento</span>
                 <br />
-                No desenvolvimento priorizamos a entregar de uma versão teste do
+                No desenvolvimento priorizamos a entrega de uma versão teste do
                 sistema com as principais funcionalidades para o uso diário,
                 permitindo identificar padrões de uso, coletar feedbacks e
                 mapear novas necessidades ainda não identificadas.
@@ -211,9 +211,9 @@ export default function Home() {
               <p>
                 <span className="font-bold">3. Implementação</span>
                 <br /> Implantação da versão final do sistema, contendo todos os
-                módulos e funcionalidades definidos, com acompanhamento próximo
-                e suporte durante a migração de dados e treinamento dos usuários
-                para utilização da plataforma.
+                módulos e funcionalidades definidos, com suporte durante a
+                migração de dados e treinamento dos usuários para utilização da
+                plataforma.
               </p>
               <p>
                 <span className="font-bold">4. Refinamento</span>
@@ -338,9 +338,9 @@ export default function Home() {
               <p className="font-bold text-xl">R$ 10.000,00</p>
               <p className="font-bold text-lg normal-case">Escolha 1 Módulo</p>
               <p className="text-sm normal-case">R$ 10.000,00 por módulo</p>
-              <p className="text-sm normal-case">Pagamento 0 + 30 dias de R$ 5.000,00 ou</p>
-              <p className="text-sm normal-case">Em até 10x sem juros no cartão de crédito.</p>
-
+              <p className="text-sm normal-case">
+                Pagamento em 2 parcelas de R$ 5.000,00 (0 + 60 dias).
+              </p>
             </div>
 
             <div className="mt-8 sm:mr-40">
