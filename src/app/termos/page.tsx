@@ -1,10 +1,14 @@
+import Link from "next/link";
+
 export default function Proposta() {
   return (
     <main>
       {/* HEADER */}
-      <h1 className="p-2 sm:p-0 sm:ml-1 mt-8 text-5xl sm:text-6xl text-start">
-        Center Truck
-      </h1>
+      <Link href={"/"}>
+        <h1 className="ml-1 mt-8 text-5xl sm:text-6xl text-start">
+          Center Truck
+        </h1>
+      </Link>
 
       <section className="grid grid-cols-1 sm:grid-cols-4">
         {/* TABLE OF CONTENT */}
@@ -21,7 +25,7 @@ export default function Proposta() {
               href="#servico"
               className="p-1 text-sm rounded-lg hover:bg-primary/5"
             >
-              2. serviço
+              2. termos do serviço
             </a>
             <a
               href="#prazo"
