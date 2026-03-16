@@ -128,9 +128,9 @@ export default function Proposta() {
 
             <div className="mt-2 sm:mr-40 normal-case">
               <p>
-                Este contrato tem como objetivo o desenvolvimento e a integração
-                de funcionalidades personalizadas na plataforma da Nizee,
-                voltadas ao gerenciamento do serviço de{" "}
+                Esta prestação de serviço tem como objetivo o desenvolvimento e
+                a integração de funcionalidades personalizadas na plataforma da
+                Nizee, voltadas ao gerenciamento do serviço de{" "}
                 <span className="font-bold">lavagem</span> da Center Truck.
               </p>
               <p>
