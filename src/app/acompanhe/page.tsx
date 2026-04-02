@@ -22,12 +22,12 @@ export default function Acompanhe() {
                 01 de abril • 2026
               </p>
             </div>
-            <div className="relative flex items-center justify-center min-w-77 min-h-45 sm:min-w-100 sm:min-h-55 shrink-0 rounded-full bg-secondary/10 overflow-hidden">
-              <p className="text-center text-secondary">
+            <div className="relative flex items-center justify-center min-w-77 min-h-45 sm:min-w-100 sm:min-h-55 shrink-0 rounded-full bg-secondary/10 shadow-lg overflow-hidden">
+              <p className="text-center text-primary">
                 diagnóstico & pesquisa
               </p>
-              <p className="absolute bottom-0 left-1/2 -translate-x-1/2 text-center px-2.5 py-1 text-sm normal-case font-light text-tertiary">
-                10 a 20 dias
+              <p className="absolute bottom-0 left-1/2 -translate-x-1/2 text-center px-2.5 py-1 text-sm normal-case font-light text-primary">
+                até 20 de abril
               </p>
             </div>
             <div className="relative flex items-center justify-center min-w-107 min-h-45 sm:min-w-150 sm:min-h-55 shrink-0 rounded-4xl bg-secondary/10 overflow-hidden">

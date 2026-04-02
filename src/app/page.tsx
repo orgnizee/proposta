@@ -12,8 +12,8 @@ export default function Home() {
         <div className="overflow-auto flex">
           <div className="overflow-x-auto scrollbar-hidden flex px-1 pt-1 pb-5 gap-4 font-bold">
             <Card
-              title="INÍCIO EM 01 DE ABRIL"
-              description={["01 ", "04", "26"]}
+              title="DIGNÓSTICO & PESQUISA"
+              description={["iniciado -", "10 a 20", "dias"]}
               year="acomanhe o andamento"
               where=""
               link="/acompanhe"
